@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29543893166",
+    "firebase_url": "https://licenseawsame.firebaseio.com",
+    "project_id": "licenseawsame",
+    "storage_bucket": "licenseawsame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29543893166:android:a6d101bd115fd10b",
+        "android_client_info": {
+          "package_name": "com.dagger2ex.cosmincodrea.mvvm_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29543893166-cbtb0nokf0d7a6upeaj9vmjr4sq7funi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6w6DaQPLmibLKyJi7woNS6RnB2ypiR58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
